@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Timetable Manager is a Java-based application designed to help students organize and manage their academic schedules efficiently. The application provides features for adding, modifying, and viewing courses, including lectures, labs, and exams.
+The Timetable Manager is a Java-based application designed to help students organize and manage their academic schedules efficiently. The application provides features for adding, modifying, and viewing courses, including lectures, labs, and exams. Currently working to make it a webapp
 
 ## Features
 
