@@ -33,7 +33,7 @@ The Timetable Manager is a Java-based application designed to help students orga
 To run the application, clone this repository and execute the `Main` class. Ensure that you have Java installed on your machine.
 
 ```bash
-git clone https://github.com/your-username/timetable-manager.git
+git clone https://github.com/AbdelRahm4n/timetable-manager.git
 cd timetable-manager
 javac Main.java
 java Main
